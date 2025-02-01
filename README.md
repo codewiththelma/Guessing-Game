@@ -18,7 +18,7 @@ A number guessing game in Python where players try to guess a randomly selected 
 4. Keep guessing until you find the correct number or run out of attempts.
 
 ## Live Demo
-You can try the game live here: [Guessing Game](https://www.online-python.com/ngFkjzHe0b)
+You can try the game live here: [Guessing Game](https://www.online-python.com/3zRWS9Npou)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
